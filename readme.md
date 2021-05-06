@@ -1,1 +1,1 @@
-## spring IoC and DI demo
+## spring MVC demo
